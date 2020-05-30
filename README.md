@@ -1,5 +1,5 @@
 ## Synopsis
-Manage grafana users.
+Manage grafana users. Works with Grafana 6.x/7.x.
 
 ## Install
 The easiest way to install module is to put it in **library/** folder near your playbook.
